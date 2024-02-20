@@ -1,4 +1,5 @@
 *Suppose there is a desire to make a staircase, but not a simple one, but a handmade one in the form of a spiral*:
+
 ######I: Introductory
 > Circumstances and events associated with the stairs
 ###### O: Need, inconvenience
